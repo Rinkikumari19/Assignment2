@@ -1,0 +1,26 @@
+.container-fluid h3{
+    text-align: center;
+}
+.navbar-brand{
+    background-color:gray;
+    width: 100%;
+    color: black;   
+}
+.navhei{
+    height: 100px;
+    background-color:gray;
+}
+
+.main{
+    background-color: gray;
+    width: auto;
+    padding:1%;
+    margin-bottom: 2%;
+}
+.main h4{
+    text-align: center;
+    color: black;
+}
+.main p{
+    font-size:120%;
+}
